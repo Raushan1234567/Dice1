@@ -26,7 +26,7 @@ MausamUpdate is a weather update application designed to provide users with real
 
 ## Hosting
 - The application is hosted on Railway.app.
-- Access the application through the provided host link: [MausamUpdate Host Link](https://dice-production-a311.up.railway.app/swagger-ui/index.html)
+- Access the application through the provided host link: [MausamUpdate Host Link](https://dice1-production.up.railway.app/swagger-ui/index.html)
 
 ## Additional Notes
 - Ensure MySQL is properly configured for the application to function correctly.
